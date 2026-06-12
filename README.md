@@ -99,7 +99,7 @@ git clone https://github.com/Luc4s22/ATV_FULLSTACK_BACKEND-API.git
 ### Acessar a Pasta
 
 ```bash
-cd ATV_FULLSTACK_BACKEND-API
+cd backend
 ```
 
 ### Instalar Dependências
